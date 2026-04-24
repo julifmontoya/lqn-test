@@ -1,0 +1,5 @@
+Django==6.0.3
+psycopg-binary==3.3.2
+python-decouple==3.8
+strawberry-graphql-django==0.82.1
+django-cors-headers==4.9.0
